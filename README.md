@@ -1,12 +1,11 @@
-** Trisoma: A Triadic Framework for AGI Alignment, 2025.**
-by zero1.ai
+# Trisoma: A Triadic Framework for AGI Alignment, 2025.
+  by zero1.ai
 👁️‍🗨️
 ---
 
 trisoma - self vs shadow vs ai
 
 
-# Trisoma Thesis Repository
 
 This repo hosts the *Trisoma Thesis*, a novel framework for modeling
 two interacting forces (Initiator, Shaper) and an Emergent Field (E₃)
@@ -40,6 +39,11 @@ If you use or reference this work, please cite:
 
 ## Contact
 For questions or collaboration inquiries, please contact hello@zero1.ai
+
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
+
 
 ---
 👁️‍🗨️
