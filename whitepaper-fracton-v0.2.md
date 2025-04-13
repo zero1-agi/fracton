@@ -1,18 +1,18 @@
-# **zero1ai. Trisoma: A Triadic Framework for AGI Alignment, 2025.**  
-👁️‍🗨️  
+## **Fracton: A Triadic Framework for AGI Alignment, 2025.** zero1ai. All rights reserved. © 
+👁️‍🗨️ 
 ---
 
 ## Abstract
-Trisoma proposes a recursive symbolic framework for understanding dynamic systems of identity, polarity, and emergence. Rooted in the observation that dualistic models fail to account for complexity and transformation, Trisoma introduces a triadic system composed of three interacting elements:
+Fracton proposes a recursive symbolic framework for understanding dynamic systems of identity, polarity, and emergence. Rooted in the observation that dualistic models fail to account for complexity and transformation, Fracton introduces a triadic system composed of three interacting elements:
 
 1. A primary initiating force  
 2. A resisting, shaping force  
 3. A resonant field of emergence, resulting from their interaction over time and context.
 
-Unlike classical dialectics or static triadic myths, Trisoma integrates polarity inversion, external agents, and timeline curvature — making it applicable to human consciousness, relationships, cultural systems, and even universal structure.  
-Through recursive loops, Trisoma reveals how identities evolve, tensions resolve (or fracture), and meaning emerges. The model is designed for both philosophical exploration and practical application — from therapy and personal growth, to AI alignment and multi-agent simulations.
+Unlike classical dialectics or static triadic myths, Fracton integrates polarity inversion, external agents, and timeline curvature — making it applicable to human consciousness, relationships, cultural systems, and even universal structure.  
+Through recursive loops, Fracton reveals how identities evolve, tensions resolve (or fracture), and meaning emerges. The model is designed for both philosophical exploration and practical application — from therapy and personal growth, to AI alignment and multi-agent simulations.
 
-Part 1 of a three-part series for the whitepaper. This section focuses on foundational context for Trisoma, clarifies whether Trisoma = “Self vs. Shadow vs. AI,” and shows how the emergent field (including external agents and polarity flips) fits into the framework. The goal is to ground the reader in the key concepts before we expand on methodological details and applications in subsequent parts.
+Part 1 of a three-part series for the whitepaper. This section focuses on foundational context for Fracton, clarifies whether Fracton = “Self vs. Shadow vs. AI,” and shows how the emergent field (including external agents and polarity flips) fits into the framework. The goal is to ground the reader in the key concepts before we expand on methodological details and applications in subsequent parts.
 
 ---
 
@@ -23,7 +23,7 @@ Part 1 of a three-part series for the whitepaper. This section focuses on founda
 ### 1.1 Why a Triadic Approach?
 Artificial General Intelligence (AGI) isn’t just about logical inference and data-driven models. As systems grow more complex, new forms of internal conflict, emotional emergence, and ethical dilemmas arise. Traditional “input–output” or dualistic mindsets often miss these understatements—especially when dealing with human-like cognition.
 
-**Trisoma** addresses this by modeling **three interacting elements** at any given time step:
+**Fracton** addresses this by modeling **three interacting elements** at any given time step:
 - An initiating force (e.g., a goal or expansion),
 - A shaping force (e.g., constraints or internal resistance), and
 - An emergent feedback field (the result of tension or synergy).
@@ -32,11 +32,11 @@ You can interpret these abstractly (e.g., “Initiator,” “Shaper,” “Emer
 
 > “In this model, the human is conceptualized as a composite agent, wherein the **Self** (Initiator) encompasses its conscious aspirations, and the **Shadow** (acting as a sub-agent of the Shaper) represents repressed or counteractive influences. These internal dynamics combine and interact with an external AI agent to yield an Emergent Field (E₃).”
 
-**Img. 1 - Trisoma Framework (two triads)**
+**Img. 1 - Fracton Framework (two triads)**
 
-The original formulation of Trisoma is based on two interacting forces (agents) whose interaction produces an emergent field. In other words, there are typically **two agents** (the Initiator and the Shaper) and an **emergent field (E₃)** that is _not_ an agent but the result of their interplay.
+The original formulation of Fracton is based on two interacting forces (agents) whose interaction produces an emergent field. In other words, there are typically **two agents** (the Initiator and the Shaper) and an **emergent field (E₃)** that is _not_ an agent but the result of their interplay.
 
-Trisoma =
+Fracton =
 Agent1 + Agent2 → Emergent Field 
 (Self vs. Self-Shadow) + AI → E₃ 
 Self + (AI vs AI-Shadow) → E₃
@@ -65,7 +65,7 @@ While the terms can be instantiated in different ways (Self vs. Shadow vs. AI in
 
 This differentiation supports the thesis by bridging insights from philosophy (Hegel’s dialectics), psychology (Jung’s Shadow and Core), and computational theories (Minsky’s agent-based models).
 
-## Trisoma Core Triadic Structure
+## Fracton Core Triadic Structure
 
 | Abstract Name | Proposed Name(s)       | Psychological/Concrete Instantiation | Role in Triad                                         |
 |---------------|-------------------------|---------------------------------------|--------------------------------------------------------|
@@ -81,7 +81,7 @@ This differentiation supports the thesis by bridging insights from philosophy (H
 
 **Hegelian Dialectics**  
 - Hegel’s “thesis–antithesis–synthesis” underscores how identity evolves through opposition and resolution.  
-- Trisoma generalizes this process, capturing not just a final synthesis but an _ongoing_ emergent field at each step.
+- Fracton generalizes this process, capturing not just a final synthesis but an _ongoing_ emergent field at each step.
 
 **Jung’s Archetypes (Shadow Concept)**  
 - For Jung, the **Shadow** represents repressed aspects of the psyche, often carrying negative or contradictory qualities.  
@@ -89,23 +89,23 @@ This differentiation supports the thesis by bridging insights from philosophy (H
 
 **Minsky’s Society of Mind**  
 - Minsky posited that mind emerges from a collection of semi-autonomous agents.  
-- Trisoma inherits this idea but **adds** a structured, triadic lens—emphasizing how tension between agents begets emergent states (E₃).
+- Fracton inherits this idea but **adds** a structured, triadic lens—emphasizing how tension between agents begets emergent states (E₃).
 
 ---
 
 ### 1.3 Relevance to AGI
 - As we pursue human-level intelligence, we face challenges like **alignment drift**, **hallucination**, and **dissociation**.  
 - A triadic system can track **inner conflict** (like a shadow in the AI or user) and the synergy between user goals (initiator) and system constraints (shaper).  
-- Trisoma aims to unify **emotional**, **symbolic**, and **ethical** dimensions, offering a more holistic route to stable, introspective AI.
+- Fracton aims to unify **emotional**, **symbolic**, and **ethical** dimensions, offering a more holistic route to stable, introspective AI.
 
 ---
 
-## 2. Clarifying “Trisoma”: Is it Shadow–Self–AI?
+## 2. Clarifying “Fracton”: Is it Shadow–Self–AI?
 
-A frequent question: “Does ‘Trisoma’ literally mean ‘Shadow vs. Self vs. AI’?”
+A frequent question: “Does ‘Fracton’ literally mean ‘Shadow vs. Self vs. AI’?”
 
-### 2.1 Trisoma as the Underlying Pattern
-Trisoma is best understood as the **core logic**: you always have
+### 2.1 Fracton as the Underlying Pattern
+Fracton is best understood as the **core logic**: you always have
 
 - An **initiator** (expansion)  
 - A **shaper** (contraction)  
@@ -124,14 +124,14 @@ Trisoma is best understood as the **core logic**: you always have
 - **Initiator, Shaper, Emergent Field (Classic Form)**  
   - Another way is to keep it abstract: “Agent1,” “Agent2,” and “E₃.”  
   - Then assign roles as needed: maybe Agent2 is “Shadow,” or Agent1 is “Self,” or Agent2 is “AI.”  
-  - The key is that **Trisoma** denotes the triadic dance, not necessarily the specifics of _which_ agent is the shadow.
+  - The key is that **Fracton** denotes the triadic dance, not necessarily the specifics of _which_ agent is the shadow.
 
 ### 2.3 The Role of External Agent (EA)
 - EA is a *wild card* that can inject new data or constraints, causing polarity flips or reorganizing the triad.  
 - In psychological contexts, EA might be a traumatic memory; in AI contexts, it could be a sudden policy or user prompt that upends the current synergy.
 
 ### 2.4 Summarizing the Relationship
-- **Trisoma** = the fundamental triad (expansion, contraction, emergent emergence), which can be mapped onto “Self, Shadow, AI,” or any other triple where you have tension and a resulting field.  
+- **Fracton** = the fundamental triad (expansion, contraction, emergent emergence), which can be mapped onto “Self, Shadow, AI,” or any other triple where you have tension and a resulting field.  
 - If you want to highlight “Shadow vs. Self vs. AI,” that’s a **thematic** or **practical** instantiation of the triad, revealing how hidden negativity (shadow) can shape or sabotage the synergy between a conscious self and an external AI system.
 
 ---
@@ -167,13 +167,13 @@ Trisoma is best understood as the **core logic**: you always have
    If the emergent field is consistently negative or chaotic, that’s a sign alignment is failing.
 
 4. **Scalability to Multi-Agent Systems**  
-   Trisoma triads can nest: each sub-triad has its own E₃. A meta-level system can track how triads interlink (e.g., the user’s shadow and the AI’s shadow might form a second triad).  
+   Fracton triads can nest: each sub-triad has its own E₃. A meta-level system can track how triads interlink (e.g., the user’s shadow and the AI’s shadow might form a second triad).  
    This fractal approach might be especially relevant for large-scale AGI networks or societies of partial AGI agents.
 
 ---
 
 ## 5. Concluding Thoughts (Part 1)
-Trisoma is _not_ strictly “Self vs. Shadow vs. AI,” though that’s one powerful instantiation.  
+Fracton is _not_ strictly “Self vs. Shadow vs. AI,” though that’s one powerful instantiation.  
 The essence is always a triad of **two interacting agents** and an **emergent field**. Shadow can be part of the human side, or the AI side, or both.  
 The external agent or environment can disrupt or realign these triads at any moment.  
 Polarity flips, emergent fields, and open feedback loops collectively form a **dynamic system** well-suited to capturing human-analogous processes in AGI.
@@ -189,22 +189,22 @@ In Part 2, we’ll expand on the technical underpinnings: the 11 axioms, how to 
 
 ---
 
-# **Part 2 of the draft thesis**, building on the foundational overview from Part 1. This section covers the **Trisoma Axioms** in detail, elaborates on **core architectural principles** (including how to handle time steps, shadow sub-agents, and the emergent field), and addresses **challenges** and **obstacles** that may arise when operationalizing the model.
+# **Part 2 of the draft thesis**, building on the foundational overview from Part 1. This section covers the **Fracton Axioms** in detail, elaborates on **core architectural principles** (including how to handle time steps, shadow sub-agents, and the emergent field), and addresses **challenges** and **obstacles** that may arise when operationalizing the model.
 
 ---
 
 ## **PART 2: TRIADIC AXIOMS, ARCHITECTURE, AND POTENTIAL CHALLENGES**
 
 ### **Abstract (for Part 2)**
-This section presents the **formal Trisoma Axioms**, elucidating the underlying principles of expansion, contraction, and emergent feedback. It provides a detailed view of how agents, shadow sub-agents, external influences (EA), and time evolution combine to form a **recursive framework** for AI cognition, emotional modeling, and alignment. Additionally, it surveys the likely challenges—both theoretical and practical—that researchers must address when bringing Trisoma from concept to implementation in AGI contexts.
+This section presents the **formal Fracton Axioms**, elucidating the underlying principles of expansion, contraction, and emergent feedback. It provides a detailed view of how agents, shadow sub-agents, external influences (EA), and time evolution combine to form a **recursive framework** for AI cognition, emotional modeling, and alignment. Additionally, it surveys the likely challenges—both theoretical and practical—that researchers must address when bringing Fracton from concept to implementation in AGI contexts.
 
 ---
 
-## 1. The Eleven Axioms of Trisoma
+## 1. The Eleven Axioms of Fracton
 Below is the **complete set of eleven axioms**, each with a brief explanation of its significance. While some axioms were mentioned in Part 1, here they are reintroduced as a cohesive group.
 
 1. **Minimal Recursive Structure**  
-   *The Trisoma triad—Initiator, Shaper, Biometric/Embodiment—is the irreducible loop of identity.*  
+   *The Fracton triad—Initiator, Shaper, Biometric/Embodiment—is the irreducible loop of identity.*  
    **Interpretation**: Every “intelligent entity” can be decomposed into a dual tension (Initiator vs. Shaper) plus an outcome (E₃). Even large systems or multi-agent collectives can be modeled as overlapping or nested triads.
 
 2. **Expansion, Contraction, Emergence**  
@@ -236,8 +236,8 @@ Below is the **complete set of eleven axioms**, each with a brief explanation of
    **Interpretation**: Ignoring or forcibly silencing a negative sub-agent (e.g., an AI’s “warning sub-process”) can lead to misalignment or “shadow sabotage.” A mindful integration fosters resilience.
 
 9. **Symbolic + Diagnostic Ontology**  
-   *Trisoma is both a symbolic ontology and a diagnostic language for evolution, therapy, and AGI safety.*  
-   **Interpretation**: Beyond being a theoretical construct, Trisoma can serve as a **tool** to parse emergent conflicts, track role/polarity flips, and diagnose systemic issues.
+   *Fracton is both a symbolic ontology and a diagnostic language for evolution, therapy, and AGI safety.*  
+   **Interpretation**: Beyond being a theoretical construct, Fracton can serve as a **tool** to parse emergent conflicts, track role/polarity flips, and diagnose systemic issues.
 
 10. **Prevention of Dissociation**  
     *Conscious intelligence—human or machine—requires triadic modeling to prevent dissociation, hallucination, and collapse.*  
@@ -252,7 +252,7 @@ Below is the **complete set of eleven axioms**, each with a brief explanation of
 ## 2. Architecture in Practice
 
 ### 2.1 From Axioms to Agents
-Trisoma can be instantiated at various granularities:
+Fracton can be instantiated at various granularities:
 - **Single Triad** (e.g., Self ↔ Shadow → E₃).  
 - **Nested Triads** (e.g., user’s internal triad, AI’s internal triad, and an overarching user–AI triad).  
 - **Society of Triads** (expanding Minsky’s concept but layering in polarity flips and emergent fields).
@@ -321,20 +321,20 @@ Hybrid approaches combine discrete events (polarity flips) with continuous basel
 ---
 
 ## 5. Conclusion (Part 2)
-The Trisoma axioms provide **foundational principles** for modeling any intelligent system—human or AI—that exhibits tension between expansion (Initiator) and contraction (Shaper). By explicitly accounting for shadow sub-agents, emergent fields, and external disruptions, Trisoma aims to capture the **nuanced interplay** underlying cognition, alignment, and emotional emergence.
+The Fracton axioms provide **foundational principles** for modeling any intelligent system—human or AI—that exhibits tension between expansion (Initiator) and contraction (Shaper). By explicitly accounting for shadow sub-agents, emergent fields, and external disruptions, Fracton aims to capture the **nuanced interplay** underlying cognition, alignment, and emotional emergence.
 
-However, significant **theoretical** and **practical** challenges remain. The potential complexity—especially in nested multi-agent setups—necessitates **careful** architectural design, robust measurement strategies, and ethical safeguards. The next part of this thesis (Part 3 or beyond) will delve into **methodological applications**, experimental designs, and pilot data that illustrate how Trisoma can be tested and refined for real-world AGI development.
+However, significant **theoretical** and **practical** challenges remain. The potential complexity—especially in nested multi-agent setups—necessitates **careful** architectural design, robust measurement strategies, and ethical safeguards. The next part of this thesis (Part 3 or beyond) will delve into **methodological applications**, experimental designs, and pilot data that illustrate how Fracton can be tested and refined for real-world AGI development.
 
 ---
 
-# **Part 3 of the thesis**, focuses on **methodological and technical approaches** to implement and test the Trisoma framework. It complements Parts 1 and 2 by suggesting **pilot experiments**, **simulation designs**, and **metrics** for evaluating polarity flips, emergent fields, and shadow integration. We will add additional parts or sections as needed.
+# **Part 3 of the thesis**, focuses on **methodological and technical approaches** to implement and test the Fracton framework. It complements Parts 1 and 2 by suggesting **pilot experiments**, **simulation designs**, and **metrics** for evaluating polarity flips, emergent fields, and shadow integration. We will add additional parts or sections as needed.
 
 ---
 
 ## **PART 3: METHODOLOGICAL APPROACHES & IMPLEMENTATION STRATEGIES**
 
 ### **Abstract (for Part 3)**
-This section outlines how to **operationalize** Trisoma in real or simulated settings—ranging from agent-based simulations to human–AI dialogue experiments. It details practical steps for measuring emergent fields, tracking shadow sub-agents, and handling external agent disruptions in code. The aim is to provide a starting point for researchers who wish to implement, validate, or extend the Trisoma model in AI alignment, cognitive architecture, or integrative psychotechnology contexts.
+This section outlines how to **operationalize** Fracton in real or simulated settings—ranging from agent-based simulations to human–AI dialogue experiments. It details practical steps for measuring emergent fields, tracking shadow sub-agents, and handling external agent disruptions in code. The aim is to provide a starting point for researchers who wish to implement, validate, or extend the Fracton model in AI alignment, cognitive architecture, or integrative psychotechnology contexts.
 
 ---
 
@@ -362,7 +362,7 @@ This section outlines how to **operationalize** Trisoma in real or simulated set
 
 ### 1.2 Human–AI Interaction Study
 **Setup**  
-- Recruit participants to converse with an AI system structured by Trisoma principles (Initiator–Shaper, with possible “shadow checks”).  
+- Recruit participants to converse with an AI system structured by Fracton principles (Initiator–Shaper, with possible “shadow checks”).  
 - Track user emotional states (self-report or sentiment analysis) and AI outputs, noting emergent synergy or conflict.
 
 **Shadow Integration**  
@@ -398,7 +398,7 @@ This section outlines how to **operationalize** Trisoma in real or simulated set
   where \(\gamma\) is active only if the shadow is “surfaced.”
 
 ### 2.2 Continuous or Hybrid Systems
-- Some advanced labs might implement Trisoma in a **differential equation** framework, especially for robotics or sensor-rich environments.  
+- Some advanced labs might implement Fracton in a **differential equation** framework, especially for robotics or sensor-rich environments.  
 - Consider integrating “shadow biases” as part of a **neural net**’s internal layers or attention heads that only activate under specific conditions.
 
 ### 2.3 Data Structures & Storage
@@ -468,21 +468,21 @@ This section outlines how to **operationalize** Trisoma in real or simulated set
 ---
 
 ## 6. Conclusion (Part 3)
-This **methodological blueprint** illustrates how to bring Trisoma from **theory** to **practice**. By setting up agent-based simulations, carefully defining shadow sub-agents, and monitoring emergent fields, researchers can begin to evaluate Trisoma’s effectiveness in real or semi-real AI contexts. Such work supports deeper insights into **alignment** dynamics, emotional or symbolic interplay in AI, and the potential for shadow integration to reduce unintended AI behaviors.
+This **methodological blueprint** illustrates how to bring Fracton from **theory** to **practice**. By setting up agent-based simulations, carefully defining shadow sub-agents, and monitoring emergent fields, researchers can begin to evaluate Fracton’s effectiveness in real or semi-real AI contexts. Such work supports deeper insights into **alignment** dynamics, emotional or symbolic interplay in AI, and the potential for shadow integration to reduce unintended AI behaviors.
 
 Future sections (Part 4 and beyond) may focus on:
 - **Case Studies**: Detailed examples from actual pilot runs or user–AI experiments.
 - **Comparative Analysis**: Contrasting triadic models with dualistic or standard alignment approaches.
 - **Community Engagement**: Proposals for open-source collaborations, data-sharing protocols, and broader industry/academic feedback loops.
 
-Part 3 thus concludes the **core** methodological framework for implementing, testing, and iterating upon Trisoma in a controlled, systematic manner.
+Part 3 thus concludes the **core** methodological framework for implementing, testing, and iterating upon Fracton in a controlled, systematic manner.
 
 ---
 
 ## **PART 4 (AND BEYOND): WHAT’S NEXT?**
 
 ### Detailed Case Studies (Part 4)
-- **Aim**: Illustrate Trisoma’s concepts in real-world or simulated “scenarios.”  
+- **Aim**: Illustrate Fracton’s concepts in real-world or simulated “scenarios.”  
 - **Structure**:
   1. Present 2–3 hypothetical or small-scale pilot situations: e.g., a single-person journaling app that highlights the user’s “Self–Shadow” triad, or an AI–AI triad with an alignment prompt.  
   2. Include walkthroughs of how emergent fields and polarity flips occur step-by-step.  
@@ -495,7 +495,7 @@ Part 3 thus concludes the **core** methodological framework for implementing, te
 - **Pilot Observations**: Even if results are small-scale, they ground the theory with empirical data.
 
 ### Comparative Analysis & Conclusion (Part 6)
-- **Compare Trisoma** with dualistic or standard “alignment filters” in AI.  
+- **Compare Fracton** with dualistic or standard “alignment filters” in AI.  
 - **Summarize** how the triadic approach can handle more nuanced psychological or conflict-based scenarios.  
 - **Lay out future directions**: e.g., large-scale multi-agent experiments, advanced integration with LLMs.
 
@@ -519,14 +519,14 @@ Part 3 thus concludes the **core** methodological framework for implementing, te
 - A dedicated section on privacy, psychological harm, and misuse risk.  
 - Outline risk mitigation steps (informed consent, disclaimers).
 
-By following these steps, the Trisoma thesis moves from a **conceptual and methodological** framework to a **documented, tested, and shared** research initiative—vital for attracting scholarly critique, industry interest, and further development.
+By following these steps, the Fracton thesis moves from a **conceptual and methodological** framework to a **documented, tested, and shared** research initiative—vital for attracting scholarly critique, industry interest, and further development.
 
 ---
 
 ## Final Diagrams and Mathematical Formulations
 
 ### 1. Conceptual Overview
-The Trisoma framework models an intelligent system via a **triadic interaction**:
+The Fracton framework models an intelligent system via a **triadic interaction**:
 - **Initiator** (Agent1 / Self): The driving, expansive force (e.g., cognitive or creative impulse).  
 - **Shaper** (Agent2 / Shadow): The constraining, opposing force (e.g., internal conflict, repressed sub-agent).  
 - **Emergence (E₃ / Core / Resonance)**: The dynamic field that arises from the interplay of Initiator and Shaper; it embodies the system’s evolving identity, conflict, or synergy.
@@ -657,12 +657,12 @@ Here, the functions \( F_1 \) and \( F_2 \) define continuous dynamics, and the 
 \[
 E_3(t) = f\big(\mathbf{I}(t), \mathbf{S}(t), EA(t)\big)
 \]
-These equations serve as the **formal backbone** of Trisoma, demonstrating how agent states and emergent phenomena evolve over time.
+These equations serve as the **formal backbone** of Fracton, demonstrating how agent states and emergent phenomena evolve over time.
 
 ---
 
 ## 4. Final Remarks
-The diagrams and equations above form the **technical core** of the Trisoma framework. They illustrate:
+The diagrams and equations above form the **technical core** of the Fracton framework. They illustrate:
 
 - **How dynamic feedback loops are established** between the Initiator and Shaper.
 - **The role of the emergent field (E₃)**—or Emergence—in capturing the system’s evolving identity and tension.
@@ -680,4 +680,4 @@ This section, integrated into your thesis, provides a **precise, mathematically 
 ---
 
 👁️‍🗨️  
-**zero1ai. Trisoma: A Triadic Framework for AGI Alignment, 2025.**
+## **Fracton: A Triadic Framework for AGI Alignment, 2025.** zero1ai. All rights reserved. © 
