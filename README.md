@@ -1,20 +1,20 @@
-# Trisoma: A Triadic Framework for AGI Alignment, 2025.
-  by zero1.ai
-👁️‍🗨️
+## **Fracton: A Triadic Framework for AGI Alignment, 2025.** zero1ai. All rights reserved. © 
+👁️‍🗨️ 
+
 ---
 
 trisoma - self vs shadow vs ai
 
 
 
-This repo hosts the *Trisoma Thesis*, a novel framework for modeling
+This repo hosts the *Fracton*, a novel framework for modeling
 two interacting forces (Initiator, Shaper) and an Emergent Field (E₃)
 in both human psychology and AI systems. 
 
 
 ## Contents
 
-- **thesis/**: Contains the full text of the thesis divided into Parts 1 through 3 (Theoretical & Methodological Foundations) and planned future sections (Parts 4+).
+- **thesis/**: Contains the full text of the thesis divided into Parts 1 through 5 (Theoretical & Methodological Foundations) and planned future sections (Parts 6+).
 - **code/**: Minimal simulation prototypes demonstrating the triadic dynamics (Initiator, Shaper, Emergence) and basic polarity flip mechanisms.
 - **elements/**:  
   - *Appendix Z
@@ -47,4 +47,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 👁️‍🗨️
-**zero1ai. Trisoma: A Triadic Framework for AGI Alignment, 2025.**
+Fracton: A Triadic Framework for AGI Alignment, 2025. zero1ai. All rights reserved. © 
