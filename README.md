@@ -3,7 +3,7 @@
 
 ---
 
-trisoma - self vs shadow vs ai
+fracton - self vs shadow vs ai
 
 
 
