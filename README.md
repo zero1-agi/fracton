@@ -34,7 +34,7 @@ Please open an Issue or Pull Request with your ideas!
 
 ## Citation
 If you use or reference this work, please cite:
-- zero1aiTrisoma: A Triadic Framework for AGI Alignment, 2025.
+- zero1ai. Fracton: A Triadic Framework for AGI Alignment, 2025.
 
 
 ## Contact
