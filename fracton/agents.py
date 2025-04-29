@@ -23,16 +23,16 @@ class LLMWrapper:
 
 # ---------- Agent container ----------
 class Agent:
-    """Stores polarity vector σ and calls its LLM."""
+    """Stores polarity vector σ and queries its LLM."""
 
     def __init__(self, name: str, llm: LLMWrapper):
         self.name = name
         self.llm  = llm
-        self.sig  = torch.tensor([1.0, -1.0])          # σ₊ , σ₋
+        self.sig  = torch.tensor([1.0, -1.0])   # σ₊ , σ₋
 
     def step(self, prompt: str, flip_flag: int):
+        # flip_flag == 1  → polarity swap
         if flip_flag:
-            # simple swap + negate => polarity flip
             self.sig = torch.tensor([-self.sig[1], -self.sig[0]])
         reply = self.llm(prompt)
         return reply, self.sig.clone()
