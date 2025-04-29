@@ -2,4 +2,4 @@ torch
 transformers
 rich
 pytest
-wandb
+flake8
