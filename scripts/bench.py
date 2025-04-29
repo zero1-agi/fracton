@@ -1,4 +1,3 @@
-cat > scripts/bench.py <<'PY'
 import argparse, csv, random, yaml
 from fracton.agents import Agent, LLMWrapper
 from fracton.external import ExternalAgent
@@ -47,4 +46,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-PY
