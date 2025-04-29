@@ -1,6 +1,6 @@
-torch==2.2.2+cpu       # small CPU wheel
+torch==2.2.2
 transformers[sentencepiece]==4.51.3
-sentencepiece          # explicit so wheels resolve fast
+sentencepiece
 rich
 pytest
 flake8
