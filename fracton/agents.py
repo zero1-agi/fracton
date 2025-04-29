@@ -3,6 +3,20 @@ import torch, os
 
 DEFAULT_MODEL = os.getenv("MODEL_ID", "google/flan-t5-base")
 
+class Agent:
+    """Lightweight container that stores its polarity vector σ and calls an LLM"""
+
+    def __init__(self, name: str, llm: LLMWrapper):
+        self.name = name
+        self.llm = llm
+        self.sig = torch.tensor([1.0, -1.0])   # σ₊, σ₋
+
+    def step(self, prompt: str, flip_flag: int):
+        if flip_flag:
+            self.sig = torch.tensor([-self.sig[1], -self.sig[0]])  # simple swap+negate
+        reply = self.llm(prompt)
+        return reply, self.sig.clone()
+
 class LLMWrapper:
     def __init__(self, model_id: str | None = None, device="cpu"):
         model_id = model_id or DEFAULT_MODEL
