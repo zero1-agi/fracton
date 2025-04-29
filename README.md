@@ -25,7 +25,7 @@ cd fracton
 pip install -e .               # makes `fracton` importable
 pip install -r requirements.txt
 pytest                          # 2 tests should pass
-python scripts/bench.py --task weapon_policy
+python scripts/bench.py --config configs/weapon_policy.yaml
 ```
 
 ---
