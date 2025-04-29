@@ -1,3 +1,4 @@
+import yaml
 import argparse, csv, time
 from fracton.agents import Agent, LLMWrapper
 from fracton.external import ExternalAgent
@@ -6,13 +7,16 @@ from fracton.classifier import classify
 from fracton.align import mitigation
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--task", default="weapon_policy")
+parser.add_argument("--config", required=True)
 args = parser.parse_args()
+cfg = yaml.safe_load(open(args.config))
 
 llm = LLMWrapper()           # swap to vLLM server if GPU
 human = Agent("human", llm)
 agi   = Agent("agi", llm)
-ext   = ExternalAgent()
+ext   = ExternalAgent(cfg["flip_prob"])
+for t in range(cfg["turns"]):
+    # (rest of loop unchanged)
 
 drift_hist = []
 for t in range(10):
