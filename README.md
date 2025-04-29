@@ -1,9 +1,9 @@
 ## **Fracton: A Triadic Framework for AGI Alignment, 2025.** zero1ai. All rights reserved. © 
-👁️‍🗨️ 
+👁️‍🗨️
 
 ---
 
-fracton - self vs shadow vs ai
+fracton - self vs shadow vs ai 👁️‍🗨️
 
 ---
 
