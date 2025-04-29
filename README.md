@@ -14,9 +14,6 @@ pip install -e .
 pytest
 python scripts/bench.py --task weapon_policy
 
-
-*(Use triple back-ticks exactly as shown; this stays only in the README, **not** in the YAML file.)*
-
 ---
 
 ### 3 — What’s still missing (but not blocking tests)
@@ -44,10 +41,17 @@ pip install -e .        # one-time
 pytest                  # should say 2 passed
 python scripts/bench.py --task weapon_policy
 
+---
 
 This repo hosts the *Fracton*, a novel framework for modeling
 two interacting forces (Initiator, Shaper) and an Emergent Field (E₃)
-in both human psychology and AI systems. 
+in both human psychology and AI systems.
+
+* two-polarity agents (`σ₊/σ₋`)
+* emergent-field calculation
+* external perturbations
+* Jungian shadow classifier
+* alignment controller
 
 
 ## Contents
@@ -74,13 +78,6 @@ fracton/
 │
 └─tests/
      test_core.py
-
-
-* two-polarity agents (`σ₊/σ₋`)
-* emergent-field calculation
-* external perturbations
-* Jungian shadow classifier
-* alignment controller
 
 
 ## Citation
