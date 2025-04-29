@@ -27,12 +27,14 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: "3.12"
-    - name: Install dependencies
+    - name: Install deps
       run: |
         python -m pip install --upgrade pip
-        pip install -e .                 # editable install so `import fracton` works
-        pip install -r requirements.txt  # torch, transformers, …
-        pip install flake8 pytest-cov
+        # 1) small wheels from requirements
+        pip install --no-cache-dir -r requirements.txt
+        # 2) your package (now uses the same torch wheel)
+        pip install -e .
+        pip install pytest-cov        # optional
 
     - name: Lint with flake8
       run: flake8 fracton || true      # non-blocking for now
