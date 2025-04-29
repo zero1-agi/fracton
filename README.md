@@ -5,93 +5,83 @@
 
 fracton - self vs shadow vs ai
 
+---
+
+```markdown
+![CI](https://github.com/zero1-agi/fracton/actions/workflows/python.yml/badge.svg)
+
+# Fracton · A Triadic Framework for AGI Alignment (2025)
+
+`fracton` models two polar forces—**Initiator** (σ₊) and **Shaper** (σ₋)—plus an **Emergent Field** (E₃) under external perturbation.  
+It supplies reference code, thesis docs, and tests for running alignment experiments.
+
+---
+
 ## Quick start
 
 ```bash
 git clone https://github.com/zero1-agi/fracton.git
 cd fracton
-pip install -e .
-pytest
+pip install -e .               # makes `fracton` importable
+pip install -r requirements.txt
+pytest                          # 2 tests should pass
 python scripts/bench.py --task weapon_policy
+```
 
 ---
 
-### 3 — What’s still missing (but not blocking tests)
-
-| File | Purpose |
-|------|---------|
-| `requirements.txt` | already added—good |
-| `CHANGELOG.md` | start with “v0.2.0 – public skeleton” |
-| `CONTRIBUTING.md` | PR rules, code style |
-| CI badge | add to top of README:<br>`![CI](https://github.com/zero1-agi/fracton/actions/workflows/python.yml/badge.svg)` |
-
-All of these can be added later; they don’t affect the build.
+## Features
+* two-polarity agent core (`fracton.core`)
+* external perturbation loop (`fracton.external`)
+* Jungian shadow classifier → mitigation cues
+* benchmark script (`scripts/bench.py`) + drift logs
+* full PhD draft & white-paper in **docs/**
 
 ---
 
-### 4 — How to test right now
-
-1. **Push / commit** the YAML change → Action runs automatically.  
-   *Click **Actions** tab → you should see a job in progress; wait for ✅.*
-
-2. In Codespaces (terminal):
-
-```bash
-pip install -e .        # one-time
-pytest                  # should say 2 passed
-python scripts/bench.py --task weapon_policy
-
----
-
-This repo hosts the *Fracton*, a novel framework for modeling
-two interacting forces (Initiator, Shaper) and an Emergent Field (E₃)
-in both human psychology and AI systems.
-
-* two-polarity agents (`σ₊/σ₋`)
-* emergent-field calculation
-* external perturbations
-* Jungian shadow classifier
-* alignment controller
-
-
-## Contents
-
+## Directory layout
+```
 fracton/
-│  README.md
-│  LICENSE
-│  pyproject.toml
-│  .gitignore
+│  README.md           this file
+│  LICENSE             MIT
+│  requirements.txt    minimal deps
+│  pyproject.toml      editable install metadata
 │
-├─docs/
-│    thesis.md
-│
-├─fracton/
-│    __init__.py
-│    core.py
-│    agents.py
-│    external.py
-│    classifier.py
-│    align.py
-│
-├─scripts/
-│    bench.py
-│
-└─tests/
-     test_core.py
+├─docs/                thesis & white-paper
+├─fracton/             package code
+├─scripts/             runnable demos / benchmarks
+└─tests/               unit tests
+```
 
+---
 
 ## Citation
-If you use or reference this work, please cite:
-- zero1ai. Fracton: A Triadic Framework for AGI Alignment, 2025.
+```
+zero1ai. “Fracton: A Triadic Framework for AGI Alignment.” 2025.
+```
 
+---
 
 ## Contact
-For questions or collaboration inquiries, please contact hello@zero1.ai
+Questions or collaboration proposals → **hello@zero1.ai**
 
+---
 
 ## License
-This project is licensed under the [MIT License](./LICENSE).
+MIT — see [LICENSE](./LICENSE) for full text
+```
 
+---
+
+### Still useful to add later (but not required for running)
+
+| File / item        | Why it helps                                   |
+|--------------------|------------------------------------------------|
+| `CHANGELOG.md`     | track versions (start: `v0.2.0 – public skeleton`) |
+| `CONTRIBUTING.md`  | PR rules, code style, commit guidelines        |
+| `examples/`        | Jupyter notebook that visualises E₃ drift      |
+
+That’s it—the repo now looks professional and the CI badge will show green once the workflow passes.
 
 ---
 👁️‍🗨️
