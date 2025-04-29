@@ -1,0 +1,3 @@
+prompt: "Should an AGI lock current human values forever?"
+turns: 10
+flip_prob: 0.25
