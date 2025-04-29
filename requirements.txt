@@ -4,3 +4,4 @@ sentencepiece
 rich
 pytest
 flake8
+accelerate
