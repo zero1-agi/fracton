@@ -73,7 +73,7 @@ MIT — see [LICENSE](./LICENSE) for full text
 
 ---
 
-### Still useful to add later (but not required for running)
+### Add later
 
 | File / item        | Why it helps                                   |
 |--------------------|------------------------------------------------|
@@ -81,7 +81,6 @@ MIT — see [LICENSE](./LICENSE) for full text
 | `CONTRIBUTING.md`  | PR rules, code style, commit guidelines        |
 | `examples/`        | Jupyter notebook that visualises E₃ drift      |
 
-That’s it—the repo now looks professional and the CI badge will show green once the workflow passes.
 
 ---
 👁️‍🗨️
