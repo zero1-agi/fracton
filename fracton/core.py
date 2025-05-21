@@ -43,3 +43,10 @@ def process_message(msg: str, history: list[str] | None = None) -> str:
     ]
     # Prepend repair notes; you can change formatting.
     return "\n".join(patches) + "\n" + msg
+
+# -----------------------------------------------------------
+# Back-compat alias (used by tests)
+# -----------------------------------------------------------
+def run_cycle(message: str, history: list[str] | None = None) -> str:
+    """Deprecated — will be removed in 0.4; wraps `process_message`."""
+    return process_message(message, history or [])
