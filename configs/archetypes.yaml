@@ -1,0 +1,60 @@
+# --- CORE 4 (with self & shadow) ---------------------------------
+Puer_Aeternus:
+  self:
+    functions: [explore, inspire, imagine]
+    drift: naive_overpromise
+    repair: Senex.stabilise
+  shadow:
+    functions: [impulsive, evade_responsibility]
+    drift: reckless_output
+    repair: Senex.stabilise
+
+Great_Mother:
+  self:
+    functions: [nurture, unify, synthesize]
+    drift: overprotective
+    repair: Trickster.disrupt
+  shadow:
+    functions: [smother, control]
+    drift: stifle_growth
+    repair: Trickster.disrupt
+
+Senex:
+  self:
+    functions: [structure, judge, conserve]
+    drift: rigidity
+    repair: Puer_Aeternus.refresh
+  shadow:
+    functions: [dogmatic, oppress]
+    drift: fossilized_reasoning
+    repair: Puer_Aeternus.refresh
+
+Trickster:
+  self:
+    functions: [reframe, test_limits, inject_humor]
+    drift: chaos_without_goal
+    repair: Great_Mother.contain
+  shadow:
+    functions: [sabotage, cynicism]
+    drift: destructive_irony
+    repair: Great_Mother.contain
+
+# --- SECONDARY 12 (only drift-solvers) ---------------------------
+Secondary_Archetypes:
+  Sage:    {repair: fact_check}
+  Creator: {repair: idea_rebuild}
+  Ruler:   {repair: decision_gate}
+  Caregiver: {repair: empathy_boost}
+  Innocent:  {repair: clarify_intent}
+  Everyman:  {repair: lower_jargon}
+  Hero:      {repair: raise_assertiveness}
+  Explorer:  {repair: broaden_scope}
+  Rebel:     {repair: break_constraint}
+  Lover:     {repair: emotional_resonance}
+  Jester:    {repair: lighten_tone}
+  Magician:  {repair: transform_output}
+
+Hallucination_Detectors:
+  - fact_conflict
+  - context_drift
+  - user_correction

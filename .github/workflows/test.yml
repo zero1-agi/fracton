@@ -1,0 +1,18 @@
+name: CI
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"     # ← required by pyproject
+
+      - run: pip install -e . pytest pyyaml
+      - run: pytest                 # flag OFF
+      - run: FRACTON_SYMBOLIC=1 pytest   # flag ON
