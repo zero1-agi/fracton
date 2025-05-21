@@ -1,0 +1,19 @@
+name: CI
+on: [pull_request, push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+    - name: Install
+      run: |
+        pip install -e .
+        pip install pytest pyyaml
+    - name: Pytest (flag off)
+      run: pytest
+    - name: Pytest (flag on)
+      run: FRACTON_SYMBOLIC=1 pytest
