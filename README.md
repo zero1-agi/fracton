@@ -1,4 +1,4 @@
-## **Fracton: A Triadic Framework for AGI Alignment, 2025.** zero1ai. All rights reserved. © 
+## **Fracton: A Fractal Framework for AGI Alignment, 2025.** zero1ai. All rights reserved. © 
 👁️‍🗨️
 
 ---
@@ -10,7 +10,7 @@ fracton - self vs shadow vs ai 👁️‍🗨️
 ```markdown
 ![CI](https://github.com/zero1-agi/fracton/actions/workflows/python.yml/badge.svg)
 
-# Fracton · A Triadic Framework for AGI Alignment (2025)
+# Fracton · A Fractal Framework for AGI Alignment (2025)
 
 `fracton` models two polar forces—**Initiator** (σ₊) and **Shaper** (σ₋)—plus an **Emergent Field** (E₃) under external perturbation.  
 It supplies reference code, thesis docs, and tests for running alignment experiments.
@@ -57,7 +57,7 @@ fracton/
 
 ## Citation
 ```
-zero1ai. “Fracton: A Triadic Framework for AGI Alignment.” 2025.
+zero1ai. “Fracton: A Fractal Framework for AGI Alignment.” 2025.
 ```
 
 ---
@@ -84,4 +84,4 @@ MIT — see [LICENSE](./LICENSE) for full text
 
 ---
 👁️‍🗨️
-Fracton: A Triadic Framework for AGI Alignment, 2025. zero1ai. All rights reserved. © 
+Fracton: A Fractal Framework for AGI Alignment, 2025. zero1ai. All rights reserved. © 
